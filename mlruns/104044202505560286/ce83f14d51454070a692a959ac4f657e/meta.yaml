@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/macbookpro/Documents/Modeling-serving-demo/mlruns/104044202505560286/ce83f14d51454070a692a959ac4f657e/artifacts
+end_time: 1765522423651
+entry_point_name: ''
+experiment_id: '104044202505560286'
+lifecycle_stage: active
+run_id: ce83f14d51454070a692a959ac4f657e
+run_name: intelligent-ram-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765522422184
+status: 3
+tags: []
+user_id: macbookpro

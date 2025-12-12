@@ -1,0 +1,10 @@
+artifact_location: file:///Users/macbookpro/Documents/Modeling-serving-demo/mlruns/104044202505560286/models/m-b5ff71af9c44427b9e556c7f4a1e69d0/artifacts
+creation_timestamp: 1765448064923
+experiment_id: '104044202505560286'
+last_updated_timestamp: 1765448066357
+model_id: m-b5ff71af9c44427b9e556c7f4a1e69d0
+model_type: null
+name: model
+source_run_id: 04dfc2eebcb84300ba68f523254283ec
+status: 2
+status_message: null

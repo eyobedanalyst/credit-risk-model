@@ -1,0 +1,22 @@
+artifact_path: file:///Users/macbookpro/Documents/Modeling-serving-demo/mlruns/104044202505560286/models/m-e32556eb4497454f8a09d1483ac33abe/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.7.0
+model_id: m-e32556eb4497454f8a09d1483ac33abe
+model_size_bytes: 3890
+model_uuid: m-e32556eb4497454f8a09d1483ac33abe
+prompts: null
+run_id: 3605d863d55f4c559ce8359677d2a321
+utc_time_created: '2025-12-11 12:55:42.323645'

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/macbookpro/Documents/Modeling-serving-demo/mlruns/104044202505560286/04dfc2eebcb84300ba68f523254283ec/artifacts
+end_time: 1765448066360
+entry_point_name: ''
+experiment_id: '104044202505560286'
+lifecycle_stage: active
+run_id: 04dfc2eebcb84300ba68f523254283ec
+run_name: persistent-boar-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765448064893
+status: 3
+tags: []
+user_id: macbookpro

@@ -1,0 +1,15 @@
+creation_timestamp: 1765520618199
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765520618199
+model_id: m-e32556eb4497454f8a09d1483ac33abe
+name: Demo
+run_id: 3605d863d55f4c559ce8359677d2a321
+run_link: ''
+source: models:/m-e32556eb4497454f8a09d1483ac33abe
+status: READY
+status_message: null
+storage_location: file:///Users/macbookpro/Documents/Modeling-serving-demo/mlruns/104044202505560286/models/m-e32556eb4497454f8a09d1483ac33abe/artifacts
+user_id: null
+version: 1

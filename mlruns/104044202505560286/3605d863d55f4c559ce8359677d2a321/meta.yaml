@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/macbookpro/Documents/Modeling-serving-demo/mlruns/104044202505560286/3605d863d55f4c559ce8359677d2a321/artifacts
+end_time: 1765457743871
+entry_point_name: ''
+experiment_id: '104044202505560286'
+lifecycle_stage: active
+run_id: 3605d863d55f4c559ce8359677d2a321
+run_name: awesome-cow-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765457742286
+status: 3
+tags: []
+user_id: macbookpro
